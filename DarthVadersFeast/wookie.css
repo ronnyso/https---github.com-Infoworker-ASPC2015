@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'DistantGalaxySymbols';
+  src: url('SF Distant Galaxy Symbols.ttf');
+}
+
+
+body {
+    font-family: 'DistantGalaxySymbols'!important;
+}
